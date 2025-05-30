@@ -35,7 +35,7 @@ Very good morning, and the project is ON.
 | 10:28 AM - 11:38 AM | 1h 10m |
 Done!
 
-12:43 PM -> Analysis
+12:43 PM - 13:40 PM
 
 | Chores | Hours Count | Flag |
 | ------ | ----------- | ---- |
@@ -44,3 +44,6 @@ Done!
 | 11:40 - 12:06 PM | 26m | Time waste |
 | 12:08 PM - 12:24 PM | Lunch |
 | 12:24 PM - 12:40 PM | Time waste |
+| 13:40 - 13:54 | Time waste |
+| 13:55 - 15:36 | 1h 41m | sleep
+| 15:37 - 16:01 | 24m | Coming back to senses and Time waste |
