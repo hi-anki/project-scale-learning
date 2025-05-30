@@ -31,8 +31,10 @@ Very good morning, and the project is ON.
 | Session | Hours Count |
 | ------- | ----------- |
 | 6:15 AM - 7:24 AM | 1h 9m |
-| 8:44 AM - 
+| 8:44 AM - 10:15 AM | 1h 31m |
+| 10:28 AM - 
 
-| Chores | Hours Count |
-| ------- | ----------- |
-| 7:25 AM - 8:41 AM | 1h 16m |
+| Chores | Hours Count | Flag |
+| ------ | ----------- | ---- |
+| 7:25 AM - 8:41 AM | 1h 16m | Necessary morning routine |
+| 10:15 AM - 10:24 AM | 9m | Avoidable, but circumstances didn't allowed |
