@@ -29,4 +29,6 @@ My current plan is to complete **arrays and strings** in *intel x86_64 ASM* by t
 Very good morning, and the project is ON.
 
 | Session | Hours Count |
-| 6:15 AM - 
+| ------- | ----------- |
+| 6:15 AM - 7:24 AM | 1h 9m |
+
