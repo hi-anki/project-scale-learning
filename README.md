@@ -32,7 +32,8 @@ Very good morning, and the project is ON.
 | ------- | ----------- |
 | 6:15 AM - 7:24 AM | 1h 9m |
 | 8:44 AM - 10:15 AM | 1h 31m |
-| 10:28 AM - 
+| 10:28 AM - 11:38 AM | 1h 10m |
+Done!
 
 | Chores | Hours Count | Flag |
 | ------ | ----------- | ---- |
