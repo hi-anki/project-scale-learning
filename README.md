@@ -25,3 +25,8 @@ Also, I attribute my slow progress to external factors. Though I have already op
 This would also help me deciding the next plan after these 2 months.
 
 My current plan is to complete **arrays and strings** in *intel x86_64 ASM* by the evening of 31st May. This task would have taken at least 4-5 days in the scenario I was in so far. But now it should not take more than 1.5-1.7 day, or about ~15 hours. Because now I have complete silence and focus.
+
+Very good morning, and the project is ON.
+
+| Session | Hours Count |
+| 6:15 AM - 
